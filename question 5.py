@@ -4,7 +4,8 @@ array sequentially:
 * If an element is less than the average, update it to 0. However, if the element is
 greater than or equal to the average, he need not update it.
 Your task is to help Paul find and return an integer value, representing the minimum
-possible sum of all the elements in the array by performing the above operations. Note: An exact average should be calculated, even if it results in a decimal.
+possible sum of all the elements in the array by performing the above operations. 
+Note: An exact average should be calculated, even if it results in a decimal.
 Input Format:
 input1: An integer value N, representing the size of the array A.
 input2: An integer array A.
